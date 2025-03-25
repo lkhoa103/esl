@@ -880,3 +880,84 @@ Today, I **go** to the market. I **buy** an apple, a banana, and an orange. The 
 
 My mother **buys** vegetables. She **likes** cooking. **Do** you like shopping? I **do not like** it, but I **help** my mom.
 
+# Conversations
+
+# Conversation 1 - Morning Routine
+**A:** What time do you wake up?  
+**B:** I wake up at 7:00. **Does** your brother wake up early?  
+**A:** No, **he wakes** up late. **He eats** eggs.  
+**B:** I **do not eat** eggs. I **eat** bread.
+
+---
+
+# Conversation 2 - School and Study
+**A:** Do you study English?  
+**B:** Yes, I **study** every day. **Does** your sister study too?  
+**A:** Yes, **she studies** math.  
+**B:** I **do not like** math. I **like** English.
+
+---
+
+# Conversation 3 - At the Park
+**A:** Do you go to the park?  
+**B:** Yes, I **go** every Sunday. **Does** your friend play soccer?  
+**A:** Yes, **he plays** soccer.  
+**B:** I **do not play** soccer. I **walk**.
+
+---
+
+# Conversation 4 - Food and Drinks
+**A:** What do you eat for breakfast?  
+**B:** I **eat** a banana. **Does** your brother eat fruit?  
+**A:** No, **he does not eat** fruit. **He eats** bread and drinks tea.  
+**B:** I **drink** coffee.
+
+---
+
+# Conversation 5 - Jobs and Family
+**A:** **Does** your father work?  
+**B:** Yes, **he works** in an office. **Does** your mother work?  
+**A:** No, **she does not work**. She **stays** home.  
+**B:** My sister **works** at a supermarket.
+
+---
+
+# Conversation 6 - Weekend Fun
+**A:** What do you do on weekends?  
+**B:** I **play** video games. **Does** your brother play too?  
+**A:** Yes, **he plays** soccer on Saturday.  
+**B:** I **do not like** soccer. I **like** games.
+
+---
+
+# Conversation 7 - Pets
+**A:** Do you have a pet?  
+**B:** Yes, I have a dog. **It likes** to run.  
+**A:** I have a cat. **It sleeps** all day.  
+**B:** **Does** your cat play?  
+**A:** No, **it does not**.
+
+---
+
+# Conversation 8 - Shopping
+**A:** Do you go shopping?  
+**B:** Yes, I **buy** fruit. **Does** your mom buy vegetables?  
+**A:** Yes, **she buys** carrots and onions.  
+**B:** I **do not like** onions!
+
+---
+
+# Conversation 9 - Daily Life
+**A:** What do you do every day?  
+**B:** I **study** and **watch** TV. **Does** your sister study?  
+**A:** Yes, **she studies** English.  
+**B:** I **do not watch** TV. I **read** books.
+
+---
+
+# Conversation 10 - The Zoo
+**A:** Do you like the zoo?  
+**B:** Yes! I **see** lions and elephants.  
+**A:** **Does** your brother like animals?  
+**B:** No, **he does not like** animals.  
+**A:** I **like** monkeys. **They are** funny!
