@@ -1,35 +1,56 @@
-Exercises
+Exercises: To be (am/is/are) + a/an
 
-1. I ___ ___ engineer.  
-2. She ___ ___ artist.  
-3. We ___ ___ students.  
-4. He ___ ___ teacher.  
-5. They ___ ___ musicians.  
-6. It ___ ___ animal.  
-7. You ___ ___ doctor.  
-8. I ___ ___ accountant.  
-9. She ___ ___ nurse.  
-10. He ___ ___ electrician.  
-11. I ___ ___ student.  
-12. He ___ ___ actor.  
-13. She ___ ___ engineer.  
-14. You ___ ___ pilot.  
-15. It ___ ___ insect.  
-16. We ___ ___ teachers.  
-17. They ___ ___ soldiers.  
-18. I ___ ___ electrician.  
-19. She ___ ___ artist.  
-20. He ___ ___ athlete.  
-21. You ___ ___ nurse.  
-22. It ___ ___ animal.  
-23. We ___ ___ dancers.  
-24. They ___ ___ musicians.  
-25. I ___ ___ farmer.  
-26. She ___ ___ accountant.  
-27. He ___ ___ architect.  
-28. You ___ ___ driver.  
-29. It ___ ___ owl.  
-30. They ___ ___ programmers.  
+|  1. I ___ ___ engineer.           |  51. They ___ ___ police officers.  |
+|  2. She ___ ___ artist.           |  52. I ___ ___ nurse.               |
+|  3. We ___ ___ students.          |  53. She ___ ___ engineer.          |
+|  4. He ___ ___ teacher.           |  54. He ___ ___ driver.             |
+|  5. They ___ ___ musicians.       |  55. You ___ ___ plumber.           |
+|  6. It ___ ___ animal.            |  56. It ___ ___ animal.             |
+|  7. You ___ ___ doctor.           |  57. We ___ ___ students.           |
+|  8. I ___ ___ accountant.         |  58. They ___ ___ actors.           |
+|  9. She ___ ___ nurse.            |  59. I ___ ___ carpenter.           |
+| 10. He ___ ___ electrician.       |  60. She ___ ___ pilot.             |
+| 11. I ___ ___ student.            |  61. He ___ ___ programmer.         |
+| 12. He ___ ___ actor.             |  62. You ___ ___ mechanic.          |
+| 13. She ___ ___ engineer.         |  63. It ___ ___ owl.                |
+| 14. You ___ ___ pilot.            |  64. We ___ ___ architects.         |
+| 15. It ___ ___ insect.            |  65. They ___ ___ accountants.      |
+| 16. We ___ ___ teachers.          |  66. She ___ ___ photographer.      |
+| 17. They ___ ___ soldiers.        |  67. He ___ ___ cook.               |
+| 18. I ___ ___ electrician.        |  68. I ___ ___ actor.               |
+| 19. She ___ ___ artist.           |  69. You ___ ___ engineer.          |
+| 20. He ___ ___ athlete.           |  70. They ___ ___ scientists.       |
+| 21. You ___ ___ nurse.            |  71. He ___ ___ fireman.            |
+| 22. It ___ ___ animal.            |  72. She ___ ___ waitress.          |
+| 23. We ___ ___ dancers.           |  73. You ___ ___ waiter.            |
+| 24. They ___ ___ musicians.       |  74. It ___ ___ animal.             |
+| 25. I ___ ___ farmer.             |  75. We ___ ___ students.           |
+| 26. She ___ ___ accountant.       |  76. They ___ ___ singers.          |
+| 27. He ___ ___ architect.         |  77. I ___ ___ teacher.             |
+| 28. You ___ ___ driver.           |  78. She ___ ___ nurse.             |
+| 29. It ___ ___ owl.               |  79. He ___ ___ mechanic.           |
+| 30. They ___ ___ programmers.     |  80. You ___ ___ artist.            |
+| 31. I ___ ___ teacher.            |  81. It ___ ___ dog.                |
+| 32. He ___ ___ dentist.           |  82. We ___ ___ doctors.            |
+| 33. She ___ ___ singer.           |  83. They ___ ___ dancers.          |
+| 34. You ___ ___ student.          |  84. I ___ ___ student.             |
+| 35. It ___ ___ bird.              |  85. She ___ ___ teacher.           |
+| 36. We ___ ___ lawyers.           |  86. He ___ ___ dentist.            |
+| 37. They ___ ___ artists.         |  87. You ___ ___ secretary.         |
+| 38. I ___ ___ dancer.             |  88. It ___ ___ fish.               |
+| 39. She ___ ___ musician.         |  89. We ___ ___ firefighters.       |
+| 40. He ___ ___ plumber.           |  90. They ___ ___ pilots.           |
+| 41. You ___ ___ secretary.        |  91. I ___ ___ artist.              |
+| 42. It ___ ___ elephant.          |  92. She ___ ___ writer.            |
+| 43. We ___ ___ programmers.       |  93. He ___ ___ singer.             |
+| 44. They ___ ___ drivers.         |  94. You ___ ___ photographer.      |
+| 45. I ___ ___ firefighter.        |  95. It ___ ___ bird.               |
+| 46. She ___ ___ actress.          |  96. We ___ ___ waiters.            |
+| 47. He ___ ___ scientist.         |  97. They ___ ___ chefs.            |
+| 48. You ___ ___ engineer.         |  98. I ___ ___ scientist.           |
+| 49. It ___ ___ insect.            |  99. She ___ ___ lawyer.            |
+| 50. We ___ ___ singers.           | 100. He ___ ___ farmer.             |
+
 
 Subject-Verb Agreement Chart
 
