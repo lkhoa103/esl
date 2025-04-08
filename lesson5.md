@@ -1,3 +1,36 @@
+Exercises
+
+1. I ___ ___ engineer.  
+2. She ___ ___ artist.  
+3. We ___ ___ students.  
+4. He ___ ___ teacher.  
+5. They ___ ___ musicians.  
+6. It ___ ___ animal.  
+7. You ___ ___ doctor.  
+8. I ___ ___ accountant.  
+9. She ___ ___ nurse.  
+10. He ___ ___ electrician.  
+11. I ___ ___ student.  
+12. He ___ ___ actor.  
+13. She ___ ___ engineer.  
+14. You ___ ___ pilot.  
+15. It ___ ___ insect.  
+16. We ___ ___ teachers.  
+17. They ___ ___ soldiers.  
+18. I ___ ___ electrician.  
+19. She ___ ___ artist.  
+20. He ___ ___ athlete.  
+21. You ___ ___ nurse.  
+22. It ___ ___ animal.  
+23. We ___ ___ dancers.  
+24. They ___ ___ musicians.  
+25. I ___ ___ farmer.  
+26. She ___ ___ accountant.  
+27. He ___ ___ architect.  
+28. You ___ ___ driver.  
+29. It ___ ___ owl.  
+30. They ___ ___ programmers.  
+
 Subject-Verb Agreement Chart
 
 
@@ -514,3 +547,244 @@ How – for manner or method
 | **Who**       | Who sits next to you in class?         | My friend sits next to me.             | ¿Quién se sienta a tu lado en clase?        | Mi amigo se sienta a mi lado.     | من يجلس بجانبك في الصف؟               | صديقي يجلس بجانبي.                |
 | **Why**       | Why do you like English class?         | Because it is fun.                     | ¿Por qué te gusta la clase de inglés?       | Porque es divertida.              | لماذا تحب حصة اللغة الإنجليزية؟        | لأنها ممتعة.                      |
 | **How**       | How do you learn new words?            | I use pictures and flashcards.         | ¿Cómo aprendes palabras nuevas?             | Uso imágenes y tarjetas.          | كيف تتعلم كلمات جديدة؟               | أستخدم صورًا وبطاقات.              |
+
+
+Conversation 1
+
+**Student A:** Hi! What’s your name?  
+**Student B:** My name is Adam. What’s your name?  
+**Student A:** I’m Sara. Nice to meet you!  
+**Student B:** Nice to meet you too!  
+
+**Student A:** What do you do?  
+**Student B:** I am a student. And you?  
+**Student A:** I am a nurse.  
+
+**Student B:** Where do you work?  
+**Student A:** I work at a hospital.  
+
+**Student B:** Is your job fun?  
+**Student A:** Yes, it is! I like helping people. Do you like school?  
+**Student B:** Yes, I do. I study English and science.  
+
+**Student A:** That’s great! Are you tired today?  
+**Student B:** A little. But I am happy!  
+**Student A:** Me too!
+
+
+Conversation 2
+
+**Student A:** Hello!  
+**Student B:** Hi! How are you?  
+**Student A:** I’m good. And you?  
+**Student B:** I’m tired, but happy.  
+
+**Student A:** What do you do?  
+**Student B:** I am a teacher. What about you?  
+**Student A:** I am a doctor.  
+
+**Student B:** Where do you work?  
+**Student A:** I work at a hospital.  
+
+**Student A:** Do you work on Monday?  
+**Student B:** Yes, I work from Monday to Friday.  
+**Student A:** Me too!  
+
+**Student B:** Are you busy today?  
+**Student A:** Yes, I am. I have a big day!  
+**Student B:** Good luck!  
+**Student A:** Thank you!
+
+Conversation 3
+
+**Student A:** Good morning!  
+**Student B:** Good morning!  
+
+**Student A:** Are you a student?  
+**Student B:** Yes, I am. And you?  
+**Student A:** I’m a student too.  
+
+**Student B:** What do you study?  
+**Student A:** I study English. Do you like English?  
+**Student B:** Yes, I do! It’s fun.  
+
+**Student A:** Where do you live?  
+**Student B:** I live with my family.  
+
+**Student A:** Who is in your family?  
+**Student B:** My mother, my father, and my sister.  
+**Student A:** That’s nice!  
+
+**Student B:** Are you tired?  
+**Student A:** No, I’m excited! I like school.  
+**Student B:** Me too!
+
+Conversation 4
+
+**Student A:** Hi! What do you do on Saturday?  
+**Student B:** I go to the park. And you?  
+**Student A:** I play football with my friends.  
+
+**Student B:** Do you like football?  
+**Student A:** Yes, I do! It’s fun. Do you like the park?  
+**Student B:** Yes, I walk and take pictures.  
+
+**Student A:** What time do you wake up?  
+**Student B:** I wake up at 8:00.  
+**Student A:** I wake up at 9:00.  
+
+**Student B:** Are you busy on Sunday?  
+**Student A:** No, I am free. I read books.  
+**Student B:** Nice! I listen to music.  
+
+**Student A:** Do you go to school on Monday?  
+**Student B:** Yes, I do. I study English.  
+**Student A:** Me too!
+
+Conversation 5
+
+**Student A:** Hello! Where are you going?  
+**Student B:** I am going to the supermarket.  
+**Student A:** What do you buy there?  
+**Student B:** I buy apples, eggs, and bread.  
+
+**Student A:** Do you go on Saturday?  
+**Student B:** Yes, I do.  
+**Student A:** I go with my mother.  
+
+**Student B:** Do you like shopping?  
+**Student A:** No, I don’t.  
+**Student B:** Me too. But I like food!
+
+
+Conversation 6
+
+**Student A:** Hi! How are you today?  
+**Student B:** I’m cold and tired.  
+**Student A:** Oh no! Are you sick?  
+**Student B:** No, I’m okay. Just sleepy.
+
+**Student A:** Is it cold outside?  
+**Student B:** Yes, it is! Do you have a jacket?  
+**Student A:** Yes, I do. I have a red jacket.
+
+**Student B:** I want hot tea!  
+**Student A:** Me too! Let’s drink tea and rest.
+
+Conversation 7
+
+**Student A:** What does your father do?  
+**Student B:** He is a doctor.  
+**Student A:** Wow! Where does he work?  
+**Student B:** He works at a hospital.  
+
+**Student A:** Is your mother a doctor too?  
+**Student B:** No, she is a teacher.  
+**Student A:** That’s nice! My mother is a nurse.
+
+Conversation 8
+
+**Student A:** Where do you live?  
+**Student B:** I live in an apartment.  
+**Student A:** Is it big?  
+**Student B:** No, it’s small, but nice.  
+
+**Student A:** Do you have a pet?  
+**Student B:** Yes! I have a dog.  
+**Student A:** I have a cat. They don’t like each other!  
+**Student B:** Haha! Mine barks a lot!
+
+
+Conversation 9
+
+**Student A:** What do you study?  
+**Student B:** I study English and math.  
+**Student A:** Do you like math?  
+**Student B:** No, I don’t. It’s hard.  
+
+**Student A:** I like science.  
+**Student B:** My sister studies science too.  
+**Student A:** Does she like it?  
+**Student B:** Yes, she does!
+
+Conversation 10
+
+**Student A:** What do you do on Sunday?  
+**Student B:** I sleep and read books.  
+**Student A:** Do you play games?  
+**Student B:** Yes, I play with my brother.  
+
+**Student A:** I go to the park.  
+**Student B:** Do you go with your family?  
+**Student A:** Yes. My father plays football.  
+**Student B:** That sounds fun!
+
+## 📖 Story 1: A Day with My Family
+
+I wake up at 7:00. I brush my teeth and eat an egg and a banana.  
+My sister wakes up later. She eats bread and drinks tea.  
+My mother is in the kitchen. She cooks breakfast.  
+My father is a doctor. He goes to work at 8:00.
+
+On Saturday, we go to the park.  
+I play football with my brother. He runs fast.  
+My sister does not play. She reads a book.  
+My mother walks and takes pictures.  
+My father is tired, so he sits and drinks coffee.
+
+After the park, we go to the supermarket.  
+We buy apples, oranges, eggs, and bread.  
+I carry the bag. My sister helps too.  
+Do I like shopping? No, I don’t.  
+But I like food, so I help my mom.
+
+We go home at 6:00. I am tired but happy.  
+I take a shower and eat dinner.  
+We eat rice, chicken, and salad.  
+Then, we watch TV together.  
+At 9:00, I go to sleep.
+
+--
+
+## 📖 Story 2: My Friend Anna
+
+My friend Anna is a nurse. She works at a hospital.  
+She wakes up at 6:00 every day. She eats toast and drinks tea.  
+She goes to work by bus. She helps sick people.  
+Anna is kind and friendly. She likes her job.  
+She comes home at 5:00 and eats dinner with her family.  
+In the evening, she reads a book or watches TV.
+
+---
+
+## 📖 Story 3: A Day at School
+
+I go to school from Monday to Friday.  
+My class starts at 8:00. I study English and math.  
+My teacher is very nice. She helps us a lot.  
+At 12:00, we eat lunch. I eat a sandwich and drink water.  
+After school, I play with my friends.  
+I go home at 4:00. I do my homework and then rest.
+
+---
+
+## 📖 Story 4: The Weekend
+
+On Saturday, I do not go to school.  
+I wake up late and eat pancakes for breakfast.  
+I go to the park with my sister. She plays on the swings.  
+We eat apples and drink juice.  
+In the afternoon, we go to the supermarket with our mom.  
+We buy rice, eggs, and vegetables.  
+In the evening, we watch a movie and go to sleep at 10:00.
+
+---
+
+## 📖 Story 5: My Pet Cat
+
+I have a cat. Her name is Luna.  
+She is small and white. She sleeps a lot during the day.  
+In the morning, she eats fish and drinks milk.  
+She likes to sit on the window and watch birds.  
+At night, she runs and plays with her toys.  
+She is funny and I love her very much.
