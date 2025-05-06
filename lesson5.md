@@ -53,6 +53,40 @@ Exercises: To be (am/is/are) + a/an
 | 49 | It ___ ___ insect.                 | 99  | She ___ ___ lawyer.                |
 | 50 | We ___ ___ singers.                | 100 | He ___ ___ farmer.                 |
 
+---
+
+# Numbers 1–60
+
+| Number | Word   | Number | Word     | Number | Word     |
+|--------|--------|--------|----------|--------|----------|
+| 1      | one    | 21     | twenty-one  | 41     | forty-one  |
+| 2      | two    | 22     | twenty-two  | 42     | forty-two  |
+| 3      | three  | 23     | twenty-three| 43     | forty-three|
+| 4      | four   | 24     | twenty-four | 44     | forty-four |
+| 5      | five   | 25     | twenty-five | 45     | forty-five |
+| 6      | six    | 26     | twenty-six  | 46     | forty-six  |
+| 7      | seven  | 27     | twenty-seven| 47     | forty-seven|
+| 8      | eight  | 28     | twenty-eight| 48     | forty-eight|
+| 9      | nine   | 29     | twenty-nine | 49     | forty-nine |
+| 10     | ten    | 30     | thirty      | 50     | fifty      |
+| 11     | eleven | 31     | thirty-one  | 51     | fifty-one  |
+| 12     | twelve | 32     | thirty-two  | 52     | fifty-two  |
+| 13     | thirteen| 33    | thirty-three| 53     | fifty-three|
+| 14     | fourteen| 34    | thirty-four | 54     | fifty-four |
+| 15     | fifteen| 35     | thirty-five | 55     | fifty-five |
+| 16     | sixteen| 36     | thirty-six  | 56     | fifty-six  |
+| 17     | seventeen| 37   | thirty-seven| 57     | fifty-seven|
+| 18     | eighteen| 38    | thirty-eight| 58     | fifty-eight|
+| 19     | nineteen| 39    | thirty-nine | 59     | fifty-nine |
+| 20     | twenty | 40     | forty       | 60     | sixty      |
+
+---
+
+What time is it? 
+
+
+It is 7:15
+
 
 
 Subject-Verb Agreement Chart
